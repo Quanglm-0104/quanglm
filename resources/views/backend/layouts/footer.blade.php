@@ -1,6 +1,6 @@
 <footer>
-    <p>Author: N.X.Thanh</p>
-    <a href="">thanhreus2000@gamil.com</a>
+    <p>Author: LeMinhQuang</p>
+    <a href="">quang010498@gamil.com</a>
 </footer>
 </body>
 </html>
