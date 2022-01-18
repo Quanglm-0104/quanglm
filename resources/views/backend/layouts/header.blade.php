@@ -16,7 +16,7 @@
                     <a class="info__item-img info__item">
                         <img src="/backend/image/avatar.png" alt="" class="item-img">
                     </a>
-                    <span class="info__item">Lê Minh Quang</span>
+                    <span class="info__item">lê Minh Quang</span>
                     <i class="fas fa-cogs info__item"></i>
                 </div>
             </div>

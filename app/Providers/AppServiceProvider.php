@@ -21,6 +21,7 @@ class AppServiceProvider extends ServiceProvider
             \App\Repositories\Subjects\SubjectRepositoryInterface::class,
             \App\Repositories\Subjects\SubjectRepository::class
         );
+
     }
 
     /**
